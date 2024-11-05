@@ -1,0 +1,1 @@
+Atente-se ao fato de que o endereçamento dos .wavs nos códigos de teste aponta para esta pasta. Você pode alterar o endereçamento para as pastas desejadas diretamente no código, ou colocar as pastas GENERATED e TARGET que quer analisar aqui.
