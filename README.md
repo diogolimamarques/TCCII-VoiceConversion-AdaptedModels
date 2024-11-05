@@ -1,5 +1,5 @@
 # Modelos de Conversão de Voz Adaptados - TCC II
-Esse repositório possui links para as bibliotecas originais e os códigos usados para a geração das métricas usadas no meu TCC, além de algumas das especificações utilizadas, diferentes das especificações dos códigos originais.
+Esse repositório possui links para as bibliotecas originais e os códigos usados para a geração das métricas usadas no meu (Diogo Lima Marques) TCC, além de algumas das especificações utilizadas, diferentes das especificações dos códigos originais.
 
 Observe que múltiplas versões CUDA podem estar instaladas na mesma máquina, mas é necessário alterar as variáveis de ambiente do sistema para referenciar a versão a ser utilizada.
 
