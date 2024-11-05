@@ -1,0 +1,1 @@
+Note que este é único modelo com apenas quatro faixas de áudio. Alterações podem precisar ser feitas nos códigos (reduzir os valores de 5 para 4) temporariamente para que executem de maneira correta ao avaliar esta pasta.
